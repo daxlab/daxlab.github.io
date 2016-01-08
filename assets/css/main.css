@@ -1730,6 +1730,10 @@
 		font-size: 3.5em;
 	}
 
+	.smallmajor {
+		font-size: 0.5em;
+		margin-left: 0.8em
+	}
 		header.major h2 + p {
 			color: #777;
 			font-size: 1.75em;
